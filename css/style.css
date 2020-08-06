@@ -782,6 +782,88 @@ h6 {
   color: #cce5ff;
 }
 
+
+
+
+#event {
+  padding: 60px 0;
+  background: #ffffff;
+}
+
+#event .section-header h3,
+#event .section-header p {
+  color: rgb(0, 0, 0);
+}
+
+#event .card {
+  background: #ecf5ff;
+  border-color: #ecf5ff;
+  border-radius: 10px;
+  margin: 0 15px;
+  padding: 15px 0;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  transition: 0.3s ease-in-out;
+  height: 100%;
+}
+
+#event .card:hover {
+  background: #bfddfe;
+  border-color: #bfddfe;
+}
+
+#event .card i {
+  font-size: 48px;
+  padding-top: 15px;
+  color: #258eff;
+}
+
+#event .card h5 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+#event .card p {
+  font-size: 15px;
+  color: #000000;
+}
+
+#event .card .readmore {
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  display: inline-block;
+  transition: 0.3s ease-in-out;
+  border-bottom: #bfddfe solid 2px;
+}
+
+#event .card .readmore:hover {
+  border-bottom: #fff solid 2px;
+}
+
+#event .counters {
+  padding-top: 40px;
+}
+
+#event .counters span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  display: block;
+  color: rgb(0, 0, 0);
+}
+
+#event .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+
+
+
+
 #why-us {
   padding: 60px 0;
   background: #004a99;
