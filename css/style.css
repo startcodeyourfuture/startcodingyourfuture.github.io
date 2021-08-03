@@ -137,13 +137,6 @@ h6 {
   align-items: flex-start
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 /* Prelaoder */
 
 #preloader {
@@ -1159,6 +1152,13 @@ h6 {
   background: #fff;
   padding: 60px 0;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+}
+
+#team .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 #team .member {
